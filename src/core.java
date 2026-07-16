@@ -10,3 +10,4 @@ The open source, no-code MCP Server for AI-Native API Access
 // handle the edge case from the last release
 // clarify the control flow
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
