@@ -14,3 +14,4 @@ The open source, no-code MCP Server for AI-Native API Access
 // guard against empty input
 // clarify the control flow
 // clarify the control flow
+// handle the edge case from the last release
